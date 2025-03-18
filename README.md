@@ -1,10 +1,10 @@
 # **Web Scraping and Sentiment Analysis**
 
 ## **Project Overview**
-The **Web Scraping and Sentiment Analysis** project involves extracting customer reviews from e-commerce websites using **Python and BeautifulSoup** and analyzing their sentiment to derive meaningful business insights. The project focuses on understanding customer opinions, categorizing reviews into positive, negative, and neutral sentiments, and visualizing trends that can help improve product offerings and customer satisfaction.
+The **Web Scraping and Sentiment Analysis** project involves extracting customer reviews from e-commerce websites using **Python and Selenium** and analyzing their sentiment to derive meaningful business insights. The project focuses on understanding customer opinions, categorizing reviews into positive, negative, and neutral sentiments, and visualizing trends that can help improve product offerings and customer satisfaction.
 
 ## **Objectives**
-- **Web Scraping:** Extract product reviews from an e-commerce website using **BeautifulSoup and requests**.
+- **Web Scraping:** Extract product reviews from an e-commerce website using **Selenium**.
 - **Data Cleaning & Preprocessing:** Handle missing values, remove duplicates, and clean text data.
 - **Sentiment Analysis:** Use **Natural Language Processing (NLP)** techniques to classify reviews as **positive, negative, or neutral**.
 - **Visualization & Insights:** Generate charts and graphs using **Matplotlib & Seaborn** to showcase sentiment trends.
@@ -12,7 +12,7 @@ The **Web Scraping and Sentiment Analysis** project involves extracting customer
 
 ## **Tools & Technologies Used**
 - **Python** for scripting and data processing
-- **BeautifulSoup & Requests** for web scraping
+- **Selenium** for web scraping
 - **Pandas & NumPy** for data manipulation
 - **NLTK or TextBlob** for sentiment analysis
 - **Matplotlib & Seaborn** for data visualization
