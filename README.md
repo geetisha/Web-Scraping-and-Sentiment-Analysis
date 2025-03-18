@@ -14,7 +14,7 @@ The **Web Scraping and Sentiment Analysis** project involves extracting customer
 - **Python** for scripting and data processing
 - **Selenium** for web scraping
 - **Pandas & NumPy** for data manipulation
-- **NLTK or TextBlob** for sentiment analysis
+- **NLTK or Vader** for sentiment analysis
 - **Matplotlib & Seaborn** for data visualization
 - **Jupyter Notebook** for interactive analysis
 
